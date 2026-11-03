@@ -3,7 +3,7 @@
 폰을 기울여 무당벌레를 움직이며 위에서 내려오는 세균을 피하고, 아이템으로 반격하는 모바일 아케이드 게임입니다.
 옛 게임 '레이디버그'를 모바일용으로 다시 만든 프로젝트로, HTML 파일 하나로 동작합니다.
 
-**▶ 플레이:** https://<내아이디>.github.io/ladybug/ladybug.html
+**▶ 플레이:[** https://<내아이디>.github.io/ladybug/ladybug.html](https://cyj0110.github.io/Vibe_Coding_List/LadyBug/ladybug.html)
 
 > 폰 브라우저(크롬, 사파리)로 열어 주세요. 기울기 조작은 HTTPS 주소에서만 작동합니다.
 
